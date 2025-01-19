@@ -142,6 +142,6 @@
 ### CHMOD PERM FILE COMMAND OUTPUT
 ![chmod permfile command output](chmod.png)
 ### CHMOD 740 FILE COMMAND OUTPUT
-![chmod 740 file command output](chmod740file.png)
+![chmod 740 file command output](chmod740.png)
 ### CHMOD COMMAND MANUAL
 ![chmod command manual](manchmod.png)
